@@ -85,7 +85,7 @@ Headers:		'Montserrat', sans-serif;
   padding: 15px 0;
 }
 .navigation.nav-btn-only .wrapper {
-  padding: 28px 0;
+  padding: 16px 0;
   position: relative;
 }
 .navigation .brand {
@@ -2897,6 +2897,7 @@ textarea {
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
+  padding: 12px 20px;
 }
 .btn:hover, .btn:active, .btn:active:hover, .btn:focus {
   -moz-box-shadow: none;
