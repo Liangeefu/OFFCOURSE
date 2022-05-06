@@ -457,7 +457,8 @@ Headers:		'Montserrat', sans-serif;
 /* 2. Elements Styling */
 body {
   color: #1f1f1f;
-  font-size: 14px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
   line-height: 200%;
   font-family: 'Montserrat', sans-serif;
   position: relative;
@@ -617,14 +618,14 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 60px;
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   margin-bottom: 30px;
 }
@@ -650,7 +651,7 @@ html, body {
 p, address {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
   opacity: 0.6;
-  line-height: 20px;
+  line-height: 30px;
 }
 
 ul {
@@ -3291,7 +3292,7 @@ form .status i {
 }
 @media (max-width: 767px) {
   body {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   blockquote {
